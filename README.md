@@ -1,4 +1,4 @@
-# Arduino library for addressable RGB LED strips from Pololu
+# Gabriel Glenn gabriel-glenn.com modified for particle library use >> Arduino library for addressable RGB LED strips from Pololu
 
 Version: 4.0.0 <br>
 Release date: 2016-08-22 <br>

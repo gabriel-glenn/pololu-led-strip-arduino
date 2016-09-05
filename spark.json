@@ -1,0 +1,8 @@
+{
+  "name": "gGpololu",
+  "author": "Gabriel Glenn from Pololu Corporation <gabriel-glenn.com from http://www.pololu.com/ 
+http://forum.pololu.com >",
+  "license": "MIT",
+  "version": "0.0.10",
+  "description": "Arduino library for addressable RGB LED strips from Pololu http://www.pololu.com/catalog/product/2540"
+}
